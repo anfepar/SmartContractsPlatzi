@@ -9,3 +9,5 @@ En este repositorio encontraras todos los ejemplos vistos en el curso
 5. [Errors](https://github.com/anfepar/SmartContractsPlatzi/tree/master/errors)
 6. [Enums](https://github.com/anfepar/SmartContractsPlatzi/tree/master/enums)
 7. [Project](https://github.com/anfepar/SmartContractsPlatzi/tree/master/project)
+
+Con 💚 Platzi Team
